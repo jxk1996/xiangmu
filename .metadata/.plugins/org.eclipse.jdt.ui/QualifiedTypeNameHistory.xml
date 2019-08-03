@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+<fullyQualifiedTypeName name="org.springframework.test.context.junit4.SpringRunner"/>
+<fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
+<fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration"/>
+<fullyQualifiedTypeName name="org.mybatis.spring.annotation.MapperScan"/>
+<fullyQualifiedTypeName name="com.example.demo.oto.entity.HeadLine"/>
+<fullyQualifiedTypeName name="com.example.demo.oto.dao.AreaDao"/>
+<fullyQualifiedTypeName name="com.example.demo.oto.entity.Area"/>
+<fullyQualifiedTypeName name="com.jxk.oto.dao.AreaDao"/>
+<fullyQualifiedTypeName name="com.jxk.oto.entity.Area"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+<fullyQualifiedTypeName name="org.springframework.boot.web.servlet.ServletRegistrationBean"/>
+<fullyQualifiedTypeName name="com.google.code.kaptcha.servlet.KaptchaServlet"/>
+</qualifiedTypeNameHistroy>
